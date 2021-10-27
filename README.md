@@ -1,7 +1,7 @@
-#Today Plan React JS Project
+Today Plan React JS Project
 
 This is a Today Plan (ToDO) React JS Project which has Add and Delete Plan functionality.
-here we can Add and Delete the plans it's simal as google notes
+
 
 
 
