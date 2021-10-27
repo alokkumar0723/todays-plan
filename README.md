@@ -1,3 +1,10 @@
+Today Plan React JS Project 
+This is a Today Plan (ToDO) React JS Project which has Add and Delete Plan functionality.
+here we can Add and Delete the plans it's simal as google notes
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
