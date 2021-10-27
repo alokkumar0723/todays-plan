@@ -1,0 +1,17 @@
+html {
+  background-color: rgb(47, 55, 79);
+}
+
+.container-fluid {
+  background-color: rgb(47, 55, 79);
+}
+
+input[type="text"] {
+  background: transparent;
+  color: white;
+}
+
+input[type="text"]:focus {
+  background: transparent;
+  color: white;
+}
